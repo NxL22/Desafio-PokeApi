@@ -1,0 +1,22 @@
+.home {
+    background-color: #1a1a1a;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 20px;
+    text-align: center;
+}
+
+.title {
+    font-size: 88px;
+    margin-bottom: 30px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.pikachu {
+    width: 300px;
+    margin-top: 30px;
+}

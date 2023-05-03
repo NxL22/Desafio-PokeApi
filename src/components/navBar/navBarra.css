@@ -1,0 +1,8 @@
+.active {
+    color: darkgreen;
+    
+}
+
+.desactivada {
+    color: rgb(240, 8, 201);
+}
